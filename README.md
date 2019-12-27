@@ -41,6 +41,12 @@ gif画像を作る時に画像を読み込む．
 git clone https://github.com/T-yukitaka/MakeGif.git
 cd MakeGif
 ```
+
+```
+conda env create -n MakeGif -f environment.
+pip install -r requirements.txt
+```
+
 - Generate images:
 ```
 python GenerateImgs.py
