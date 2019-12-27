@@ -15,4 +15,4 @@ cd MakeGif
 ```
 RGB
 ![result](https://github.com/T-yukitaka/MakeGif/results/RGB.gif?raw=true)
-<img src='https://github.com/T-yukitaka/MakeGif/data/imgs/001.png'>
+
