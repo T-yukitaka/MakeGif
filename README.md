@@ -3,14 +3,17 @@
 gif画像を扱う時に気づいたことがあったのでメモ
 
 ## Results
-| RGB | RGBA | L | CMYK | HSV |
-----|----|----|----|----
-| <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/RGB.gif'> | <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/RGBA.gif'> | <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/L.gif'> | <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/CMYK.gif'> | <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/HSV.gif'>
+| RGB | RGBA | P |
+----|----|----
+| <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/RGB.gif'> | <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/RGBA.gif'> | <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/P.gif'> |
 
-| F | I | P | YCbCr | 
-----|----|----|----
-| <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/F.gif'> | <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/I.gif'> | <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/P.gif'> | <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/YCbCr.gif'> | 
+| CMYK | HSV | YCbCr |
+----|----|----
+| <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/CMYK.gif'> | <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/HSV.gif'> | <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/YCbCr.gif'> |
 
+| F | I | L |
+----|----|----
+| <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/F.gif'> | <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/I.gif'> | <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/L.gif'> |
 
 
 ## Prerequisites
