@@ -9,8 +9,8 @@ if not os.path.exists(save_dir):
     os.makedirs(save_dir)
 
 img_num = 100
-img_height = 512
-img_width = 512
+img_height = 128
+img_width = 128
 
 square_size = min(img_height, img_width) // 3
 img = np.full((img_height, img_width, 3), 0, dtype=np.uint8)
