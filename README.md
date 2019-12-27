@@ -3,22 +3,12 @@
 gif画像を扱う時に気づいたことがあったのでメモ
 
 ## Results
-| RGB | RGBA | L | 
-----|----|---- 
-| <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/RGB.gif'> | <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/RGBA.gif'> | <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/L.gif'> |
+| RGB | RGBA | L | CMYK | HSV |
+----|----|----|----|----
+| <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/RGB.gif'> | <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/RGBA.gif'> | <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/L.gif'> | <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/CMYK.gif'> | <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/HSV.gif'>
+
+
 ## Results
-L
-
-<img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/L.gif' width=256 >
-
-CMYK
-
-<img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/CMYK.gif' width=256 >
-
-HSV
-
-<img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/HSV.gif' width=256 >
-
 F
 
 <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/F.gif' width=256 >
