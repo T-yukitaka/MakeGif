@@ -1,6 +1,9 @@
 # MakeGif
 
-gif画像を扱う時に気づいたことがあったのでメモ
+gif画像を扱う時に気づいたことがあったのでメモ．
+
+gif画像を作る時に
+`Image.open(img_path).convert(mode)`
 
 ## Results
 | RGBA | RGB | P |
@@ -27,11 +30,11 @@ gif画像を扱う時に気づいたことがあったのでメモ
 git clone https://github.com/T-yukitaka/MakeGif.git
 cd MakeGif
 ```
-
+- Generate images:
 ```
 python GenerateImgs.py
 ```
-
+- Make gif images:
 ```
 python MakeGif.py
 ```
