@@ -3,9 +3,9 @@
 gif画像を扱う時に気づいたことがあったのでメモ
 
 ## Results
-| RGB | RGBA | P |
+| RGBA | RGB | P |
 ----|----|----
-| <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/RGB.gif'> | <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/RGBA.gif'> | <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/P.gif'> |
+| <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/RGBA.gif'> | <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/RGB.gif'> | <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/P.gif'> |
 
 | CMYK | HSV | YCbCr |
 ----|----|----
