@@ -2,8 +2,11 @@
 
 gif画像を扱う時に気づいたことがあったのでメモ．
 
-gif画像を作る時に
-`Image.open(img_path).convert(mode)`
+gif画像を作る時に画像を読み込む．
+
+`img = Image.open(img_path).convert(mode)` 
+
+`mode = RGBA, RGB, P, CMYK, HSV, YCbCr, F, I, L`
 
 ## Results
 | RGBA | RGB | P |
