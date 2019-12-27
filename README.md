@@ -14,4 +14,4 @@ git clone https://github.com/T-yukitaka/MakeGif.git
 cd MakeGif
 ```
 RGB
-<img src='./results/RGB.gif'>
+<img src='https://github.com/T-yukitaka/MakeGif/results/RGB.gif'>
