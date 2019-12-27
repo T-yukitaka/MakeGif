@@ -3,6 +3,11 @@
 gif画像を扱う時に気づいたことがあったのでメモ
 
 ## Results
+| RGB | RGBA |
+----|---- 
+| <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/RGB.gif' width=256 > | <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/RGBA.gif' width=256 > |
+
+## Results
 RGB
 
 <img src='https://github.com/T-yukitaka/MakeGif/blob/master/results/RGB.gif' width=256 >
