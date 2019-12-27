@@ -8,7 +8,13 @@ gif画像を作る時に画像を読み込む．
 
 その際に`.convert(mode)` するmodeによってgifのクオリティに差がでることが分かった．
 
+今回は，以下の9つの場合について調べた．
+
 `mode = RGBA, RGB, P, CMYK, HSV, YCbCr, F, I, L`
+
+カラーの場合は，読み込んだ画像がRGBであってもRGBAにconvertすることで，画質を保ったままgif画像に変換可能．
+
+白黒の場合は，F，I，Lのどの変換であっても画質を保ったままgif画像に変換可能．
 
 ## Results
 | RGBA | RGB | P |
