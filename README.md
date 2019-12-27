@@ -28,3 +28,10 @@ git clone https://github.com/T-yukitaka/MakeGif.git
 cd MakeGif
 ```
 
+```
+python GenerateImgs.py
+```
+
+```
+python MakeGif.py
+```
