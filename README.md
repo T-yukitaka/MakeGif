@@ -14,5 +14,5 @@ git clone https://github.com/T-yukitaka/MakeGif.git
 cd MakeGif
 ```
 RGB
-![result](https://github.com/T-yukitaka/MakeGif/results/RGB.gif?raw=true)
+![result](https://github.com/T-yukitaka/MakeGif/results/RGB.gif)
 
