@@ -2,8 +2,11 @@
 
 gif画像を扱う時に気づいたことがあったのでメモ．
 
-gif画像を作る時に画像を読み込む．その際に，`.convert(mode)` するmodeによってgifのクオリティに差がでることが分かった．
+gif画像を作る時に画像を読み込む．
+
 `img = Image.open(img_path).convert(mode)` 
+
+その際に`.convert(mode)` するmodeによってgifのクオリティに差がでることが分かった．
 
 `mode = RGBA, RGB, P, CMYK, HSV, YCbCr, F, I, L`
 
